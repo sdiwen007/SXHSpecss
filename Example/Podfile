@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SXHBaseWidgetss_Example' do
+  pod 'SXHBaseWidgetss', :path => '../'
+
+  target 'SXHBaseWidgetss_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
