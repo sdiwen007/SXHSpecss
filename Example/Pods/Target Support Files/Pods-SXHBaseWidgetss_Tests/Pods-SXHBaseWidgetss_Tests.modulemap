@@ -1,0 +1,6 @@
+framework module Pods_SXHBaseWidgetss_Tests {
+  umbrella header "Pods-SXHBaseWidgetss_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

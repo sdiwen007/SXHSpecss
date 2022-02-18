@@ -1,0 +1,6 @@
+framework module SXHBaseWidgetss {
+  umbrella header "SXHBaseWidgetss-umbrella.h"
+
+  export *
+  module * { export * }
+}
